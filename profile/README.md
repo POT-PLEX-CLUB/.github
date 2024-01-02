@@ -1,4 +1,4 @@
-## Hi there 👋
+![PotPlexClub](https://media.discordapp.net/attachments/1168551582284128368/1191152289600262154/pot_plex_invite_banner.png?ex=65a46604&is=6591f104&hm=0b482a471f804e50dc8c7fcef10d53fb2afeb89e6fece4330918ac4698d3a713&=&format=webp&quality=lossless&width=1440&height=413)
 
 <!--
 
