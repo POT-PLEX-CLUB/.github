@@ -1,4 +1,4 @@
-![PotPlexClub]()
+![PotPlexClub](https://github.com/pandaG5019/PotPlexDesigns/blob/main/pot%20plex%20invite%20banner.png?raw=true)
 
 ## Who are we?
 This network is a Minecraft Bedrock Practice network and is a non-profit organization. We intend to make no money from this server or the community. We simply intend to make something enjoyable!
