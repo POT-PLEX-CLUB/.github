@@ -8,4 +8,4 @@ We intend to offer an FFA game-mode-based server with NoDebuff as its main focus
 To be clear this organization was made to help share work and progress of the server between developers and administrators so don't expect to see much here as a regular visitor passing through, however, this doesn't mean you're at a loss, while we do intend to keep our source code for our core private you can still check out our repository's to see if we added anything for the public.
 
 ## Oh your not a regular passing through?
-Get in touch with David over @ discord.gg/potplex he has no problem getting you set up here!
+Get in touch with David over @ our [Discord](https://discord.gg/potplex) he has no problem getting you set up here!
